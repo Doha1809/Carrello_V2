@@ -1,0 +1,17 @@
+C:\Users\darag.21192\source\repos\Carrello_V\Carrello_V\bin\Debug\net8.0-windows\Carrello_V.exe
+C:\Users\darag.21192\source\repos\Carrello_V\Carrello_V\bin\Debug\net8.0-windows\Carrello_V.deps.json
+C:\Users\darag.21192\source\repos\Carrello_V\Carrello_V\bin\Debug\net8.0-windows\Carrello_V.runtimeconfig.json
+C:\Users\darag.21192\source\repos\Carrello_V\Carrello_V\bin\Debug\net8.0-windows\Carrello_V.dll
+C:\Users\darag.21192\source\repos\Carrello_V\Carrello_V\bin\Debug\net8.0-windows\Carrello_V.pdb
+C:\Users\darag.21192\source\repos\Carrello_V\Carrello_V\obj\Debug\net8.0-windows\Carrello_V.Form1.resources
+C:\Users\darag.21192\source\repos\Carrello_V\Carrello_V\obj\Debug\net8.0-windows\Carrello_V.Properties.Resources.resources
+C:\Users\darag.21192\source\repos\Carrello_V\Carrello_V\obj\Debug\net8.0-windows\Carrello_V.csproj.GenerateResource.cache
+C:\Users\darag.21192\source\repos\Carrello_V\Carrello_V\obj\Debug\net8.0-windows\Carrello_V.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darag.21192\source\repos\Carrello_V\Carrello_V\obj\Debug\net8.0-windows\Carrello_V.AssemblyInfoInputs.cache
+C:\Users\darag.21192\source\repos\Carrello_V\Carrello_V\obj\Debug\net8.0-windows\Carrello_V.AssemblyInfo.cs
+C:\Users\darag.21192\source\repos\Carrello_V\Carrello_V\obj\Debug\net8.0-windows\Carrello_V.csproj.CoreCompileInputs.cache
+C:\Users\darag.21192\source\repos\Carrello_V\Carrello_V\obj\Debug\net8.0-windows\Carrello_V.dll
+C:\Users\darag.21192\source\repos\Carrello_V\Carrello_V\obj\Debug\net8.0-windows\refint\Carrello_V.dll
+C:\Users\darag.21192\source\repos\Carrello_V\Carrello_V\obj\Debug\net8.0-windows\Carrello_V.pdb
+C:\Users\darag.21192\source\repos\Carrello_V\Carrello_V\obj\Debug\net8.0-windows\Carrello_V.genruntimeconfig.cache
+C:\Users\darag.21192\source\repos\Carrello_V\Carrello_V\obj\Debug\net8.0-windows\ref\Carrello_V.dll

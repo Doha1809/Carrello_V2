@@ -36,7 +36,10 @@ namespace Carrello_V
 
             this.prezzo = prezzo;
         }
-
+        public virtual double Modifica_prezzo()
+        {
+            return prezzo;
+        }
     }
 }
 

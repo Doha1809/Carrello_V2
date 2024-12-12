@@ -27,7 +27,7 @@ namespace Carrello_V
             {
 
                 prodotti.Add(p);
-                MessageBox.Show("Prodotto aggiunto");
+                MessageBox.Show($"Il prodotto che è stato aggiunto costa {p.Prezzo}");
             }
             public int trovato = -1;
             public void Elimina_prodotto(Prodotto P)
@@ -39,11 +39,16 @@ namespace Carrello_V
                         trovato = i;
                         i = i - 1; //così viene controllato anche l'elemento che sostituisce l'elemento elemenato'
                         prodotti.RemoveAt(trovato);
+                        break;
                     }
 
 
                 }
                 MessageBox.Show("prodotto eleminato");
+                for(int i=0;i< prodotti.Count; i++)
+            {
+                MessageBox.Show(prodotti[i].Id);
+            }
 
             }
             public void Svuota_carrello()
